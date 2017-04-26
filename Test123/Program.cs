@@ -10,6 +10,8 @@ namespace Test123
     {
         static void Main(string[] args)
         {
+            // this is the hello world application
+
             Console.Write("Hello World");
         }
     }
