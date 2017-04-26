@@ -13,6 +13,7 @@ namespace Test123
             // this is the hello world application
 
             Console.Write("Hello World");
+            Console.ReadLine();
         }
     }
 }
