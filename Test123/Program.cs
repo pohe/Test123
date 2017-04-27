@@ -11,8 +11,9 @@ namespace Test123
         static void Main(string[] args)
         {
             // this is the hello world application
-
+            // this is a new comment
             Console.Write("Hello World");
+            Console.Write("Welcome to Git");
             Console.ReadLine();
         }
     }
