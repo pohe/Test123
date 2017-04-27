@@ -13,7 +13,7 @@ namespace Test123
             // this is the hello world application
             // this is a new comment
             Console.Write("Hello World");
-            Console.Write("Welcome to Git");
+            Console.Write("Welcome to Github");
             Console.ReadLine();
         }
     }
